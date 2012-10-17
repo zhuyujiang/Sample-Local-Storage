@@ -2,32 +2,40 @@
 <html>
 	<head>
 		<title>Local Storage Sample</title>
-        <meta charset="utf-8">
+		<meta charset="utf-8">
 		<link rel="stylesheet" href="styles/main.css" />
 		<script type="text/javascript" charset="utf-8" src="cordova.js"></script>
 		<script type="text/javascript" charset="utf-8" src="scripts/main.js"></script>
 	</head>
 	<body>
-        <div id="inputForm">
-            <h4>Insert Variable</h4>
-            <label>Enter the variable name:</label><br/>
-            <input id="variableNameInput" type="text"><br/>
-            <label>Enter the variable value:</label><br/>
-            <input id="valueInput" type="number"><br/>
-            <button id="insertVariable">Insert Record</button>
-        </div>
-        <div id="getForm">
-            <h4>Search or remove record</h4>
-            <label>Enter name to search for phone number</label><br/>
-            <input id="getRemoveVariableNameInput"><br/>
-            <button id="searchVariable">Search</button>
-            <button id="removeVariable">Remove</button><br/>
-            <label>Phone Number:</label><br/>
-            <input id="result" readonly="readonly"><br/>
-        </div>
-        <div>
-            <h4>Clear Local Storage</h4>
-            <button id="clearLocalStorage">Clear</button>
-        </div>
+		<header class="header">
+			<h1>Local Storage Sample</h1>
+		</header>
+		<div class="content">
+			<div id="inputForm">
+				<h4>Insert Variable</h4>
+				<label>Enter the variable name:</label><br/>
+				<input class="button" id="variableNameInput" type="text"><br/>
+				<label>Enter the variable value:</label><br/>
+				<input class="button" id="valueInput" type="number"><br/>
+				<button class="button" id="insertVariable">Insert Record</button>
+			</div>
+			<div id="getForm">
+				<h4>Search or remove variable</h4>
+				<label>Enter name to search for a variable</label><br/>
+				<input class="button" id="getRemoveVariableNameInput"><br/>
+				<button class="button" id="searchVariable">Search</button>
+				<button class="button" id="removeVariable">Remove</button><br/>
+				<label>Value:</label><br/>
+				<input class="button defaultBig" id="results" readonly="readonly"><br/>
+			</div>
+			<div>
+				<h4>Clear Local Storage</h4>
+				<button class="button" id="clearLocalStorage">Clear</button>
+			</div>
+		</div>
 	</body>
+	<footer class="footer">
+		<div>Cordova API Samples</div>
+	</footer>
 </html>
