@@ -37,7 +37,7 @@ localStorageApp.prototype = {
     
 	_getVariable:function() {
 		var getRemoveVariableNameInput = document.getElementById("getRemoveVariableNameInput"),
-		result = document.getElementById("results");
+		result = document.getElementById("result");
 		if (localStorage.getItem(getRemoveVariableNameInput.value) != undefined) {
 			result.value = localStorage.getItem(getRemoveVariableNameInput.value);
 		}
@@ -48,7 +48,7 @@ localStorageApp.prototype = {
     
 	_removeVariable:function() {
 		var searchRemoveNameInput = document.getElementById("getRemoveVariableNameInput"),
-		result = document.getElementById("results");
+		result = document.getElementById("result");
 		if (localStorage.getItem(searchRemoveNameInput.value) != undefined) {
 			localStorage.removeItem(searchRemoveNameInput.value);
 			result.value = "Deleted";
