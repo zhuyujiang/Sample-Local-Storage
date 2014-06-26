@@ -117,6 +117,7 @@ body
 	box-shadow: 0 -1px 0 #3C3C3C;
     margin-left:12px;
     margin-top:10px;
+	display: block;
 }
 .content > .input-area {
     background-color:#e4e4e4;
@@ -248,8 +249,11 @@ body
     .content > .input-area > .inputBox {
         width:220px;
     }
-    .content > .input-area > .inputBox:last-of-type {
-        margin-left:8px;
+}
+
+@media screen and (max-height: 640px) and (orientation:landscape) {
+	.ch50{
+		height:70%;
     }
 }
 
