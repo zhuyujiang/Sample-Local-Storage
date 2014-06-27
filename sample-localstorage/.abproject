@@ -46,5 +46,6 @@
     "ID_RESOLUTION_HD720P"
   ],
   "Author": "",
-  "Description": "sample-localstorage"
+  "Description": "sample-localstorage",
+  "Framework": "Cordova"
 }
