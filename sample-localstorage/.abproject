@@ -5,20 +5,20 @@
   "ProjectName": "sample-localstorage",
   "IsRunnable": "true",
   "AndroidPermissions": [
-    "android.permission.CAMERA",
-    "android.permission.VIBRATE",
     "android.permission.ACCESS_COARSE_LOCATION",
     "android.permission.ACCESS_FINE_LOCATION",
     "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
-    "android.permission.READ_PHONE_STATE",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.CAMERA",
     "android.permission.INTERNET",
-    "android.permission.RECEIVE_SMS",
-    "android.permission.RECORD_AUDIO",
     "android.permission.MODIFY_AUDIO_SETTINGS",
     "android.permission.READ_CONTACTS",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.VIBRATE",
     "android.permission.WRITE_CONTACTS",
-    "android.permission.WRITE_EXTERNAL_STORAGE",
-    "android.permission.ACCESS_NETWORK_STATE"
+    "android.permission.WRITE_EXTERNAL_STORAGE"
   ],
   "DeviceOrientations": [
     "Portrait",
@@ -38,7 +38,7 @@
     "org.apache.cordova.keyboard",
     "org.apache.cordova.splashscreen"
   ],
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "DisplayName": "",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
@@ -47,5 +47,12 @@
   ],
   "Author": "",
   "Description": "sample-localstorage",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "WP8PublisherID": "{e92e1c14-2df3-4028-a250-cdba01977ab9}",
+  "WP8ProductID": "{52d3e8cf-2bfc-4f43-bbe3-e8bbb94f97d9}",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8Publisher": "",
+  "WP8TileTitle": ""
 }
