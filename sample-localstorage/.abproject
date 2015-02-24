@@ -45,7 +45,5 @@
 	"Author": "",
 	"Description": "sample-localstorage",
 	"Framework": "Cordova",
-	"projectVersion": 1,
-	"WP8PublisherID": "{cd0940fd-8b39-4ae5-bad7-740653313afa}",
-	"WP8ProductID": "{81fb200a-2648-41bb-b228-2ead58397b30}"
+	"projectVersion": 1
 }
