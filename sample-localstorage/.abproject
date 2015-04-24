@@ -36,13 +36,18 @@
 		"org.apache.cordova.splashscreen"
 	],
 	"FrameworkVersion": "3.7.0",
-	"DisplayName": "sample-localstorage",
+	"DisplayName": "Localstorage",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_WVGA",
 		"ID_RESOLUTION_WXGA",
 		"ID_RESOLUTION_HD720P"
 	],
 	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
 	"Description": "sample-localstorage",
 	"Framework": "Cordova",
 	"projectVersion": 1
