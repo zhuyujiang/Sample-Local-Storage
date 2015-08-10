@@ -38,9 +38,9 @@
 	"FrameworkVersion": "3.7.0",
 	"DisplayName": "Localstorage",
 	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
 		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA",
-		"ID_RESOLUTION_HD720P"
+		"ID_RESOLUTION_WXGA"
 	],
 	"Author": "",
 	"WP8Publisher": "",
@@ -50,5 +50,9 @@
 	"WP8Requirements": [],
 	"Description": "sample-localstorage",
 	"Framework": "Cordova",
-	"projectVersion": 1
+	"projectVersion": 1,
+	"WP8PublisherID": "{b94d79ca-7378-425e-bda1-e066df92a09e}",
+	"WP8ProductID": "{c66d68c0-c32a-4477-8133-c116a4c9d725}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.samplelocalstorage",
+	"WP8WindowsPublisherName": "CN=Telerik"
 }
