@@ -1,0 +1,7 @@
+title: Local Storage
+slug: sample-local-storage
+page_title: Local Storage | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to use the LocalStorage core Apache Cordova API to work with the local storage of the mobile device. 
+tags: Apache Cordova, core, storage, local storage, crud, iOS, Android, Windows Phone
+publish: true
+content_filter: true
