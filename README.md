@@ -155,4 +155,4 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [QR code]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/deploy-remote
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
-[Local Storage API]: http://cordova.apache.org/docs/en/4.0.0/cordova_storage_storage.md.html#Storage
+[Local Storage API]: http://cordova.apache.org/docs/en/4.0.0/cordova/storage/storage.html#link-1
