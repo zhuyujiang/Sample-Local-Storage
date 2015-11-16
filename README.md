@@ -4,7 +4,6 @@ Local Storage
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
 * [Limitations](#limitations)
@@ -14,17 +13,6 @@ This sample shows you how to use the Local Storage API to access the local stora
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample shows how to use the following methods of the [Local Storage API][Local Storage API].
-
-* **getItem():** Returns the value associated with the key.
-* **setItem():** Saves the specified key-value pair.
-* **removeItem():** Removes the item associated with the key argument.
-* **clear():** Removes all items saved in localStorage.
 
 [Back to Top](#top)
 
@@ -155,4 +143,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [QR code]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/deploy-remote
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
-[Local Storage API]: http://cordova.apache.org/docs/en/4.0.0/cordova/storage/storage.html#link-1
