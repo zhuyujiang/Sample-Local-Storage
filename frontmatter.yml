@@ -5,3 +5,4 @@ description: This sample shows you how to use the LocalStorage core Apache Cordo
 tags: Apache Cordova, core, storage, local storage, crud, iOS, Android, Windows Phone
 publish: true
 content_filter: true
+apis: cordova.localStorage
