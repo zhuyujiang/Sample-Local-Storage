@@ -6,3 +6,4 @@ tags: Apache Cordova, core, storage, local storage, crud, iOS, Android, Windows 
 publish: true
 content_filter: true
 apis: cordova.localStorage
+previous_url: /sample-localstorage
