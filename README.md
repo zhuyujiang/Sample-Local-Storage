@@ -1,6 +1,6 @@
 Local Storage
 ===================
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-localstorage" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-localstorage" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in the Platform" title="Try in the Platform" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
@@ -10,7 +10,7 @@ Local Storage
 
 This sample shows you how to use the Local Storage API to access the local storage of a device and create, search for or delete items.
 
-> *Supported mobile platforms:* iOS, Android, Windows Phone
+> *Supported mobile platforms:* iOS 7.1+, Android 4.4+, Windows Phone 8.1+
 >
 > *Developed with:* Windows Phone SDK 8.1, Apache Cordova 4.0.0
 
@@ -20,7 +20,7 @@ This sample shows you how to use the Local Storage API to access the local stora
 
 Platform | Home
 ---|---
-All | ![](https://raw.githubusercontent.com/Icenium/sample-localstorage/master/screenshots/home.png)
+All | ![](screenshots/storage.png)
 
 [Back to Top](#top)
 
