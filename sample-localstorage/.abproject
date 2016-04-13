@@ -30,12 +30,13 @@
 		"2"
 	],
 	"AndroidVersionCode": "1",
-	"AndroidHardwareAcceleration": "false",
+	"AndroidHardwareAcceleration": "true",
 	"CorePlugins": [
-		"org.apache.cordova.keyboard",
-		"org.apache.cordova.splashscreen"
+		"org.apache.cordova.labs.keyboard",
+		"cordova-plugin-splashscreen",
+		"cordova-plugin-whitelist"
 	],
-	"FrameworkVersion": "3.7.0",
+	"FrameworkVersion": "4.0.0",
 	"DisplayName": "Localstorage",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_HD720P",
