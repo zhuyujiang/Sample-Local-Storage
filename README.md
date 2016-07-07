@@ -20,7 +20,7 @@ This sample shows you how to use the Local Storage API to access the local stora
 
 Platform | Home
 ---|---
-All | ![](screenshots/storage.png)
+All | ![](https://raw.githubusercontent.com/Icenium/Sample-Local-Storage/master/screenshots/storage.png)
 
 [Back to Top](#top)
 
